@@ -7,12 +7,13 @@
 # topspin-to-csv
 A very simple Python script to generate a normal X/Y csv file from a Bruker TopSpin .txt file
 
-Usage:
+## Usage
 
 1) Open Bruker's TopSpin and export the current view through: Right Click > Save Display Region To... > A text file for use with other programs (leave all default). A plain text file will be saved. Let's say you named it as `namefile.txt`
 2) Launch the python script in the same folder with the command: `topspin-to-csv.py -f filename.txt`
 3) A new file will be generated: `namefile.csv`. Now you can open it with Excel, Origin, QtiPlot or whatever.
 
-Enjoy! 
+Enjoy! ✨
 
-Many thanks to **Glenn Facey** and to his hidden gem in the web, found after many **days** of research, to have provided us all with the algorithm to extract such data: [University of Ottawa NMR Facility Web Site](https://u-of-o-nmr-facility.blogspot.com/2014/02/getting-xy-ascii-data-from-topspin.html).
+## Acknowledgements
+Many thanks to **Glenn Facey** 🙏🏼 and to his hidden gem in the web, found after many **days** of research, to have provided us all with the algorithm to extract such data: [University of Ottawa NMR Facility Web Site](https://u-of-o-nmr-facility.blogspot.com/2014/02/getting-xy-ascii-data-from-topspin.html).
