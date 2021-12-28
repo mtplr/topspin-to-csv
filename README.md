@@ -6,7 +6,7 @@
 
 # topspin-to-csv
 
-A very simple Python script to generate a normal X/Y csv file from a Bruker TopSpin® .txt file
+Problem to export your NMR data? Here you go a a very simple Python script to generate a normal X/Y csv file from a Bruker TopSpin® .txt file. Any comment, pull request or suggestion is appreciated.
 
 ## Usage
 
