@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Created by Matteo Paolieri
 University of Cologne 2021
@@ -7,9 +9,6 @@ MIT LICENSE
 A simple script to export topspin raw .txt data to csv
 to be plotted elsewhere
 """
-
-
-#!/usr/bin/env python3
 
 
 import argparse
